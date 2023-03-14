@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to my github profile
 ### Feel free to view any repository and star them if you like
-<a href="https://xenonyx.heliohost.us">Visit my portfolio</a>
+<a href="https://xenonyx.helioho.st">Visit my portfolio</a>
 
 ## These are some of the stacks I like to work with :
 <ul>

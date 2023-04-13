@@ -16,17 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my github profile
-### Feel free to view any repository and star them if you like
+### Feel free to view my repositories and star them if you like
 <a href="https://xenonyx.helioho.st">Visit my portfolio</a>
 
-## These are some of the stacks I like to work with :
-<ul>
-  <li>Python
-    <ul>
-      <li>tKinter</li>
-      <li>Django</li>
-      <li>flask></li>
-    </ul>
-  </li>
-  <li>HTML5 / CSS3 / JS / BOOTSTRAP5</li>
-</ul>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XenonyxBlaze&show_icons=true&theme=dracula" alt="Aarav Rajput's Language Usages">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XenonyxBlaze&hide=css&theme=dracula" alt="Aarav Rajput's Language Usages">
+</p>

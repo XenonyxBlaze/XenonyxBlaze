@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to my github profile
 ### Feel free to view my repositories and star them if you like
-<a href="https://xenonyx.helioho.st">Visit my portfolio</a>
+<a href="https://xenonyx.xyz">Visit my portfolio</a>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XenonyxBlaze&show_icons=true&theme=dracula" alt="Aarav Rajput's Language Usages">
